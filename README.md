@@ -11,7 +11,8 @@ How to Running this Automation:
 6. allure open
 
 Berikut Result Run Test di Local
-![img.png](img.png)
+<img width="877" alt="result test" src="https://github.com/user-attachments/assets/8dfe3c6b-5354-47b0-90f0-d13df8403d18" />
+
 
 
 
