@@ -10,5 +10,8 @@ How to Running this Automation:
 5. allure generate ./allure-results --clean
 6. allure open
 
+Berikut Result Run Test di Local
+![img.png](img.png)
+
 
 
