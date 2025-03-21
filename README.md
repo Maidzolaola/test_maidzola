@@ -1,6 +1,6 @@
 Dear Mba Tiara Alamanda,
 
-untuk soal nomer 4, karena aku tidak ada apk Dev/Staging untuk aplikasi Mobile good Doctor, jadi aku membuat Web Automation Good Doctor versi Production ya mba. Semua data yang ku input dalam Automation ini berupa Dummy karena, credential production bersifat rahasia.
+untuk soal nomer 4, karena aku tidak ada apk Dev/Staging untuk aplikasi Mobile Good Doctor, jadi aku membuat Web Automation Good Doctor versi Production ya mba. Semua data yang ku input dalam Automation ini berupa Dummy karena, credential production bersifat rahasia.
 
 How to Running this Automation:
 1. Clone This Repository 
